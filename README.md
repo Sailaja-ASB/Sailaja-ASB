@@ -1,24 +1,74 @@
 # Hi, I'm Sailaja 👋  
+**Machine Learning • Generative AI • Reinforcement Learning • NLP • Computer Vision**
 
 🎓 MS in Computer Science @ University of South Dakota  
-🤖 Machine Learning, Reinforcement Learning, DSA & Generative AI  
-🚀 Building my startup vision: **Vedalytix**  
-📈 Interested in LLM'S, RAG, ML, AI Automation, and Agentic AI Systems  
+🤖 Aspiring **AI/ML Engineer** with experience in RL, NLP, CV, and Deep Learning  
+🚀 Building my startup vision: **Vedalytix** (AI + Analytics)  
+💡 Passionate about solving problems with AI, automation & data  
 
 ---
 
-## 🔥 What I work on
+## 🔥 Featured Projects
 
-- **Deep Reinforcement Learning for Stock Trading**  
-  PPO, A2C, and Double DQN on historical Yahoo Finance data.  
-  🔗 https://github.com/Sailaja-ASB/Deep-RL-Stock-Trading  
+### 📈 Deep Reinforcement Learning for Stock Trading  
+PPO, A2C, and Double DQN agents trained on real stock data using a custom trading environment.  
+🔗 https://github.com/Sailaja-ASB/Deep-RL-Stock-Trading
 
-- **Data Structures & Algorithms (DSA)**  
-  Solving arrays, trees, BFS/DFS, backtracking & competitive coding problems using multiple GitHub repos (Array-2, Trees-1, BFS-1, Competitive-Coding-9, etc.)
+### 🧠 Image Classification with CNN  
+End-to-end image classification pipeline using a custom CNN with data preprocessing, training & evaluation.  
+🔗 https://github.com/Sailaja-ASB/Image-Classification-Project
+
+### 👤 Face Recognition (CNN)  
+Deep learning–based face recognition with overfitting analysis and performance evaluation.  
+🔗 https://github.com/Sailaja-ASB/Face-Recognition-Project
+
+### ✍️ Fake Reviews Detection (NLP)  
+Detects fake vs real product reviews using NLP preprocessing, TF-IDF, and ML classifiers.  
+🔗 https://github.com/Sailaja-ASB/Fake-Reviews-Detection-NLP
 
 ---
 
-## 🌐 Connect  
+## 🛠️ Technical Skills
 
-🔗 LinkedIn: https://www.linkedin.com/in/sailajamorrennagari  
-🔗 GitHub: https://github.com/Sailaja-ASB
+### 🧠 Machine Learning / AI
+- Neural Networks, CNNs, RL (PPO, A2C, DQN), Transfer Learning  
+- NLP: TF-IDF, text preprocessing, ML classifiers  
+- Computer Vision: OpenCV, image classification, face recognition  
+
+### 💻 Programming & Tools
+- Python, TensorFlow, PyTorch  
+- NumPy, Pandas, Matplotlib, Seaborn  
+- scikit-learn, OpenCV  
+- Jupyter Notebook, VS Code  
+
+### ⚙️ Other Skills
+- DSA (Data Structures & Algorithms)  
+- Git, GitHub  
+- API development (basic)  
+- Linux & command line  
+
+---
+
+## 📌 What I'm Currently Working On  
+- Improving Generative AI skills  
+- Building advanced ML projects for portfolio  
+- Preparing for ML/AI Engineer job roles  
+- Strengthening DSA & problem-solving  
+
+---
+
+## 🚀 Goals for 2025  
+- Land a full-time **AI/ML Engineer** role  
+- Build and launch early prototype of **Vedalytix**  
+- Upload more advanced AI projects (RAG, Agents, CV models)  
+- Contribute to open-source ML projects  
+
+---
+
+## 🌐 Connect With Me  
+🔗 **GitHub:** https://github.com/Sailaja-ASB  
+🔗 **LinkedIn:** https://www.linkedin.com/in/sailajamorrennagari  
+
+---
+
+⭐ *“Building my future one model at a time.”*  
