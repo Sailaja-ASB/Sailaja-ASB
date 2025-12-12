@@ -65,10 +65,11 @@ Detects fake vs real product reviews using NLP preprocessing, TF-IDF, and ML cla
 
 ---
 
-## 🌐 Connect With Me  
+## 🌐 Connect With Me
+
 🔗 **GitHub:** https://github.com/Sailaja-ASB  
-🔗 **LinkedIn:** https://www.linkedin.com/in/sailajamorrennagari 
-🔗 **Leetcode:** [[https://https://leetcode.com/u/Its_Sailaja/
+🔗 **LinkedIn:** https://www.linkedin.com/in/sailajamorrennagari  
+🔗 **LeetCode:** https://leetcode.com/u/Its_Sailaja/
 
 ---
 
