@@ -1,5 +1,5 @@
 # Hi, I'm Sailaja 👋  
-**Machine Learning • Generative AI • Reinforcement Learning • NLP • Computer Vision**
+**Machine Learning • Generative AI • Reinforcement Learning • NLP • Computer Vision • DSA**
 
 🎓 MS in Computer Science @ University of South Dakota  
 🤖 Aspiring **AI/ML Engineer** with experience in RL, NLP, CV, and Deep Learning  
@@ -67,7 +67,8 @@ Detects fake vs real product reviews using NLP preprocessing, TF-IDF, and ML cla
 
 ## 🌐 Connect With Me  
 🔗 **GitHub:** https://github.com/Sailaja-ASB  
-🔗 **LinkedIn:** https://www.linkedin.com/in/sailajamorrennagari  
+🔗 **LinkedIn:** https://www.linkedin.com/in/sailajamorrennagari 
+🔗 **Leetcode:** [[https://https://leetcode.com/u/Its_Sailaja/
 
 ---
 
