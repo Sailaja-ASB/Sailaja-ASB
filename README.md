@@ -16,7 +16,7 @@ PPO, A2C, and Double DQN agents trained on real stock data using a custom tradin
 
 ### 🧠 Image Classification with CNN  
 End-to-end image classification pipeline using a custom CNN with data preprocessing, training & evaluation.  
-🔗 https://github.com/Sailaja-ASB/Image-Classification-Project
+🔗 https://github.com/Sailaja-ASB/Image-Classification-CV
 
 ### 👤 Face Recognition (CNN)  
 Deep learning–based face recognition with overfitting analysis and performance evaluation.  
