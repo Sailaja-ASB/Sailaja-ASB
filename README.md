@@ -1,5 +1,5 @@
 # Hi, I'm Sailaja 👋  
-**Machine Learning • Generative AI • Reinforcement Learning • NLP • Computer Vision • DSA**
+**Machine Learning • Generative AI • Snowflake • Reinforcement Learning • NLP • Computer Vision • DSA**
 
 🎓 MS in Computer Science @ University of South Dakota  
 🤖 Aspiring **AI/ML Engineer** with experience in RL, NLP, CV, and Deep Learning  
