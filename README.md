@@ -11,20 +11,16 @@
 
 ### 🔥 Featured Projects
 
-**🤖 Local Agentic Copilot** — Local-first agentic RAG system with hybrid retrieval (dense + BM25), cross-encoder reranking, page-aware PDF citations, deterministic guardrails, and a multi-agent self-correction loop. Runs fully local on Ollama + Qwen, with reproducible evals and automated tests.
-
+**🤖 Local Agentic Copilot** — Local-first agentic RAG system with hybrid retrieval (dense + BM25), cross-encoder reranking, page-aware PDF citations, deterministic guardrails, and a multi-agent self-correction loop. Runs fully local on Ollama + Qwen, with reproducible evals and automated tests.<br>
 🔗 https://github.com/Sailaja-ASB/local-agentic-copilot
 
-**📈 Deep RL for Stock Trading** — PPO, A2C, and Double DQN agents trained on real market data in a custom trading environment, with architecture tuning and reward shaping to control overfitting.
-
+**📈 Deep RL for Stock Trading** — PPO, A2C, and Double DQN agents trained on real market data in a custom trading environment, with architecture tuning and reward shaping to control overfitting.<br>
 🔗 https://github.com/Sailaja-ASB/Deep-RL-Stock-Trading
 
-**💳 Credit Card Fraud Detection** — Machine learning models for detecting fraudulent credit card transactions.
-
+**💳 Credit Card Fraud Detection** — Machine learning models for detecting fraudulent credit card transactions.<br>
 🔗 https://github.com/Sailaja-ASB/Credit-Card-Fraud-Detection
 
-**✍️ Fake Reviews Detection (NLP)** — Fake vs. real review classification with NLP preprocessing, TF-IDF, and ML classifiers.
-
+**✍️ Fake Reviews Detection (NLP)** — Fake vs. real review classification with NLP preprocessing, TF-IDF, and ML classifiers.<br>
 🔗 https://github.com/Sailaja-ASB/Fake-Reviews-Detection-NLP
 
 ---
