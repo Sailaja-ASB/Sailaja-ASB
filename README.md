@@ -1,45 +1,39 @@
-### Hi, I'm Sailaja 👋
+Hi, I'm Sailaja 👋
+AI/ML Engineer — I build production ML systems and Generative AI applications: RAG pipelines, agentic workflows, and MLOps on AWS.
+🚀 Currently: AI/ML Engineer @ UnitedHealth Group — clinical risk scoring, RAG document search, and ML platform/CI/CD
+🎓 MS in Computer Science (Machine Learning), University of South Dakota
+💡 6+ years across data engineering → data science → AI/ML engineering
+🧩 400+ LeetCode problems solved (223 in C++, 186 in Python)
 
-**AI/ML Engineer | AWS SageMaker, PyTorch, Generative AI & RAG | 6+ Years in Data & ML**
-
-🚀 Currently building production ML and Generative AI solutions for healthcare analytics — clinical risk scoring, RAG-based systems, and MLOps pipelines on AWS
-
-🎓 MS in Computer Science @ University of South Dakota
-
-💡 Background spans data engineering → data science/analytics → AI/ML engineering, with hands-on experience in RL, NLP, CV, and Deep Learning
-
----
-
-### 🔥 Featured Projects
-
-**📈 Deep Reinforcement Learning for Stock Trading**
-PPO, A2C, and Double DQN agents trained on real stock data using a custom trading environment.
+🔥 Featured Projects
+🤖 Local Agentic Copilot — Local-first agentic RAG system with hybrid retrieval (dense + BM25), cross-encoder reranking, page-aware PDF citations, deterministic guardrails, and a multi-agent self-correction loop. Runs fully local on Ollama + Qwen, with reproducible evals and automated tests.
+🔗 https://github.com/Sailaja-ASB/local-agentic-copilot
+📈 Deep RL for Stock Trading — PPO, A2C, and Double DQN agents trained on real market data in a custom trading environment, with architecture tuning and reward shaping to control overfitting.
 🔗 https://github.com/Sailaja-ASB/Deep-RL-Stock-Trading
-
-**🧠 Image Classification with CNN**
-End-to-end image classification pipeline using a custom CNN with data preprocessing, training & evaluation.
-🔗 https://github.com/Sailaja-ASB/Image-Classification-CV
-
-**👤 Face Recognition (CNN)**
-Deep learning-based face recognition with overfitting analysis and performance evaluation.
-🔗 https://github.com/Sailaja-ASB/Face-Recognition-Project
-
-**✍️ Fake Reviews Detection (NLP)**
-Detects fake vs real product reviews using NLP preprocessing, TF-IDF, and ML classifiers.
+💳 Credit Card Fraud Detection — Machine learning models for detecting fraudulent credit card transactions.
+🔗 https://github.com/Sailaja-ASB/Credit-Card-Fraud-Detection
+✍️ Fake Reviews Detection (NLP) — Fake vs. real review classification with NLP preprocessing, TF-IDF, and ML classifiers.
 🔗 https://github.com/Sailaja-ASB/Fake-Reviews-Detection-NLP
 
----
+🛠️ Tech Stack
+!Python
+!C++
+!PyTorch
+!TensorFlow
+!LangChain
+!AWS
+!Docker
+!Kubernetes
+!MLflow
+Languages: Python, C++, SQL · ML/AI: PyTorch, TensorFlow, scikit-learn, XGBoost · GenAI: LangChain, FAISS, ChromaDB, RAG, embeddings, prompt engineering, agentic workflows · Data: PySpark, Kafka, Airflow, Snowflake · MLOps: SageMaker, MLflow, Docker, Kubernetes, GitHub Actions, Prometheus, Grafana
 
-### 🛠️ Technical Skills
+📊 GitHub Stats
+!Sailaja's GitHub stats
+!Top Langs
 
-**Machine Learning / AI:** Neural Networks, CNNs, RL (PPO, A2C, DQN), Transfer Learning, NLP, Computer Vision
-
-**Cloud & MLOps:** AWS SageMaker, MLflow, Docker, Kubernetes
-
-**Generative AI:** LangChain, FAISS, RAG pipelines
-
-**Programming & Tools:** Python, TensorFlow, PyTorch, NumPy, Pandas, scikit-learn, OpenCV
-
+🔗 Connect With Me
+💼 LinkedIn: https://www.linkedin.com/in/sailajamorrennagari
+📧 Email: sailajaasb@gmail.com
 ---
 
 ### 🔗 Connect With Me
