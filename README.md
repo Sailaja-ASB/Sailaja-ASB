@@ -53,4 +53,4 @@
 - 💼 LinkedIn: https://www.linkedin.com/in/sailajamorrennagari
 - 🧩 LeetCode: https://leetcode.com/u/Its_Sailaja/
 - 📧 Email: morrennagarisailaja@gmail.com
-- 🌐 Portfolio: sailaja-morrennagari.github.io
+- 🌐 Portfolio: https://sailaja-morrennagari.github.io
