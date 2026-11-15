@@ -14,6 +14,9 @@
 **🤖 Local Agentic Copilot** — Local-first agentic RAG system with hybrid retrieval (dense + BM25), cross-encoder reranking, page-aware PDF citations, deterministic guardrails, and a multi-agent self-correction loop. Runs fully local on Ollama + Qwen, with reproducible evals and automated tests.<br>
 🔗 https://github.com/Sailaja-ASB/local-agentic-copilot
 
+**🚀 LLMOps Platform** — Production-style LLM serving: containerized FastAPI gateway in front of a self-hosted Qwen2.5-3B model, with health/readiness probes and Prometheus metrics. Benchmarked p50 2.5 s / p95 6.7 s at ~13 tokens/s. Next: Kubernetes, autoscaling, eval-gated CI/CD.<br>
+🔗 https://github.com/Sailaja-ASB/llmops-platform
+
 **📈 Deep RL for Stock Trading** — PPO, A2C, and Double DQN agents trained on real market data in a custom trading environment, with architecture tuning and reward shaping to control overfitting.<br>
 🔗 https://github.com/Sailaja-ASB/Deep-RL-Stock-Trading
 
